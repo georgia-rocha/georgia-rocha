@@ -1,7 +1,7 @@
 # 💫 Olá, Meu nome é Georgia Rocha 👩‍🎓
 ## Sobre Mim:
 🔭 Olá, sou de Maceió/AL, formada em Nutrição, fiz transição de carreira e hoje sou uma desenvolvedora Full Stack!!<br><br>
-🌱 Busco sempre estar aberta a novas oportunidades e experiências que possam expandir meus conhecimentos. Como profissional, minhas habilidades se destacam na questão da comunicação, saber ofertar e pedir ajuda, resiliência, meus pontos fortes estão principalmente no bom trabalho em equipe e na busca por solucionar problemas. <br><br>📚 No momento estou aprendento Programação Orientada a Objeto e SOLID pela Trybe e Next.js pela Alura;<br>💬 [LinkedIn](https://www.linkedin.com/in/georgia-rocha-dev/)<br>
+🌱 Busco sempre estar aberta a novas oportunidades e experiências que possam expandir meus conhecimentos. Como profissional, minhas habilidades se destacam na questão da comunicação, saber ofertar e pedir ajuda, resiliência, meus pontos fortes estão principalmente no bom trabalho em equipe e na busca por solucionar problemas. <br><br>📚 No momento estou aprendento Python pela Trybe e Next.js pela Alura;<br>💬 [LinkedIn](https://www.linkedin.com/in/georgia-rocha-dev/)<br>
 
 
 ## 🌐 Sociais:
