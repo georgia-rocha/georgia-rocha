@@ -8,7 +8,7 @@
 📚 No momento estou fazendo graduação em Ciência da Computação e trabalhando como Freelancer e em projetos pessoais em hórarios flexíveis;<br><br>💬 [LinkedIn](https://www.linkedin.com/in/georgia-rocha-dev/)<br><br>
 
 💼 [Currículo](https://www.canva.com/design/DAFwsteZjpY/28bmTzI2X2VdnObbp5Dhcw/edit?utm_content=DAFwsteZjpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br><br>
-🌱 Busco sempre estar aberta a novas oportunidades e experiências que possam expandir meus conhecimentos. Como profissional, minhas habilidades se destacam na comunicação, metodologias ágeis, resiliência, meus pontos fortes estão principalmente no bom trabalho em equipe e na busca por solucionar problemas. 
+🌱 Busco aplicar minhas habilidades como Desenvolvedora de Software em uma empresa que valorize o trabalho em equipe e esteja comprometida em fazer a diferença na vida das pessoas. Quero integrar-me a um ambiente diversificado, impulsionando meu desenvolvimento profissional e colaborando com uma equipe que compartilhe o propósito de impactar positivamente. Minhas habilidades incluem comunicação, metodologias ágeis e resiliência, destacando-me no trabalho em equipe e na resolução de problemas. Estou aberta a novas oportunidades para expandir meus conhecimentos e ansiosa para contribuir em um ambiente dinâmico, unindo minha paixão pelo desenvolvimento de software a um propósito maior.
 
 
 
