@@ -1,6 +1,5 @@
 # 💫 Olá, Meu nome é Georgia Rocha 👩‍🎓
 🗺️ Maceió/AL<br><br>
-🔭 Formação: <br>
 
 ## 🧠 **Formação Acadêmica e Profissional**  
 - 🎓 **Graduanda em Ciência da Computação** - *Estácio*  
