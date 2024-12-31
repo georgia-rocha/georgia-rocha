@@ -1,20 +1,53 @@
 # 💫 Olá, Meu nome é Georgia Rocha 👩‍🎓
 🗺️ Maceió/AL<br><br>
 🔭 Formação: <br>
-- Graduanda em Ciência da Computação - Estácio;
-- Desenvolvedora Full-Stack - Trybe;
-- Graduada em Nutrição - Unit/AL;<br><br>
 
-📚 No momento estou fazendo graduação em Ciência da Computação e trabalhando como Freelancer e em projetos pessoais em hórarios flexíveis;<br><br>
+## 🧠 **Formação Acadêmica e Profissional**  
+- 🎓 **Graduanda em Ciência da Computação** - *Estácio*  
+- 💻 **Desenvolvedora Full-Stack** - *Trybe* 
+
+## 🚀 **O que estou fazendo atualmente**  
+- 📚 Cursando Ciência da Computação, aprofundando conhecimentos em **tecnologias emergentes** e **desenvolvimento de software**.  
+- 🏗️ Trabalhando como **Desenvolvedora de Software** na **RankMyApp** e desenvolvendo **projetos pessoais** durante horários flexíveis.  
+- 🔍 Explorando novas **ferramentas e metodologias** para aprimorar minhas habilidades em **desenvolvimento full-stack**.  
 
 💬 [LinkedIn](https://www.linkedin.com/in/georgia-rocha-dev/)<br>
 
 📺 [Portfolio](https://georgia-rocha.vercel.app/)
 
 💼 [Currículo](https://www.canva.com/design/DAFwsteZjpY/28bmTzI2X2VdnObbp5Dhcw/edit?utm_content=DAFwsteZjpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br><br>
-🌱 Busco aplicar minhas habilidades como Desenvolvedora de Software em uma empresa que valorize o trabalho em equipe e esteja comprometida em fazer a diferença na vida das pessoas. Quero integrar-me a um ambiente diversificado, impulsionando meu desenvolvimento profissional e colaborando com uma equipe que compartilhe o propósito de impactar positivamente. Minhas habilidades incluem comunicação, metodologias ágeis e resiliência, destacando-me no trabalho em equipe e na resolução de problemas. Estou aberta a novas oportunidades para expandir meus conhecimentos e ansiosa para contribuir em um ambiente dinâmico, unindo minha paixão pelo desenvolvimento de software a um propósito maior.
 
+## 🌟 **Sobre mim**  
 
+🌱 Busco aplicar minhas habilidades como **Desenvolvedora de Software** em uma empresa que:  
+- Valorize o trabalho em equipe e a colaboração;  
+- Esteja comprometida em **impactar positivamente a vida das pessoas**;  
+- Ofereça um ambiente diversificado e dinâmico, impulsionando o **crescimento profissional e pessoal**.  
+
+💡 Minhas habilidades incluem:  
+- Comunicação clara e eficiente;  
+- Experiência com **metodologias ágeis**;  
+- Resiliência para lidar com desafios e problemas complexos;  
+- Colaboração em equipe e foco em **resolução criativa de problemas**.
+  
+📌 Habilidades técnicas
+- Linguagens: JavaScript | TypeScript | Python | Go (Golang)
+- Frameworks:<br>
+    * Frontend: React | Next.js | Styled-Components | Material-UI (MUI)<br>
+    * Backend: Node.js | NestJS | Express.js<br>
+    * Visualização de Dados: ECharts | Recharts<br>
+    * Web Scraping e Automação: Puppeteer<br>
+- Bancos de Dados:<br>
+    * Relacionais: MySQL | PostgreSQL<br>
+    * Não-relacionais: MongoDB<br>
+- Ferramentas:<br>
+    * Controle de Versão: Git | GitHub | GitLab<br>
+    * Contêineres e Virtualização: Docker<br>
+    * Testes: Jest | Testing Library<br>
+    * Documentação de APIs: Swagger | Postman<br>
+- Metodologias: SCRUM | Kanban<br>
+- Estilização e Design: CSS3 | SASS/SCSS | TailwindCSS | Styled-Components | Material-UI (MUI)<br>
+- Práticas de Código e Arquitetura: Clean Code | SOLID | Design Patterns | Arquitetura Orientada a Objetos (OOA/OOD)<br>
 
 ## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgia-rocha-dev) 
