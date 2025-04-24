@@ -12,8 +12,6 @@
 
 💬 [LinkedIn](https://www.linkedin.com/in/georgia-rocha-dev/)<br>
 
-📺 [Portfolio](https://georgia-rocha.vercel.app/)
-
 💼 [Currículo](https://www.canva.com/design/DAFwsteZjpY/28bmTzI2X2VdnObbp5Dhcw/edit?utm_content=DAFwsteZjpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br><br>
 
 ## 🌟 **Sobre mim**  
